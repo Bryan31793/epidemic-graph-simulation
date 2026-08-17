@@ -42,6 +42,3 @@ Puedes modificar estos valores para comparar distintos escenarios epidemiológic
 ## Captura de pantalla
 
 ![simulacion_SIRVD](images/image.png)
-
-
-_Añade aquí una captura de la animación o de uno de sus fotogramas._
